@@ -44,7 +44,7 @@ Deseja comprar uma prancha ou equipamento esportivo? Conheça nossa [Loja Florip
 
 __Localização:__
 
-[![ ](https://raw.githubusercontent.com/floripasurfclub/floripasurfclub.github.io/main/floripasurfclub.com.br.png?token=GHSAT0AAAAAACUCT6RC5NKXAPCT2FHANO3OZUHA3GA)](https://www.google.com/maps/place/Floripa+Surf+Club+Surf+School/@-27.571568,-48.425909,15z/data=!4m6!3m5!1s0x95273f5658129455:0xe63707f3e5b0a90b!8m2!3d-27.5722907!4d-48.4276687!16s%2Fg%2F11mv0t89fl?hl=pt-BR&entry=ttu)
+[![](https://raw.githubusercontent.com/floripasurfclub/floripasurfclub.github.io/main/floripasurfclub.com.br.png)](https://www.google.com/maps/place/Floripa+Surf+Club+Surf+School/@-27.571568,-48.425909,15z/data=!4m6!3m5!1s0x95273f5658129455:0xe63707f3e5b0a90b!8m2!3d-27.5722907!4d-48.4276687!16s%2Fg%2F11mv0t89fl?hl=pt-BR&entry=ttu)
 
 ## Guia Floripa
 
