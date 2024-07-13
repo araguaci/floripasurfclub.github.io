@@ -49,3 +49,5 @@ __Localização:__
 ## Guia Floripa
 
 Link: [https://guiafloripa.com.br/servicos/esportes/floripa-surf-club-surf-school.php#google\_vignette](https://guiafloripa.com.br/servicos/esportes/floripa-surf-club-surf-school.php#google_vignette)
+
+࿐🌊🐋࿐F࿐l࿐o࿐r࿐i࿐p࿐a࿐ ࿐S࿐u࿐r࿐f࿐ ࿐C࿐l࿐u࿐b࿐🐬࿐࿐
